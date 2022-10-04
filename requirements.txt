@@ -1,0 +1,5 @@
+maxminddb 
+maxminddb-geolite2
+matplotlib
+annoy
+basemap
